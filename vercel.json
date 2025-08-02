@@ -2,6 +2,6 @@
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ],
-  "buildCommand": "npx playwright install chromium && npm run build",
+  "buildCommand": "npx playwright install-deps && npx playwright install chromium && npm run build",
   "outputDirectory": "dist"
 }
