@@ -9,7 +9,7 @@
 
 ##### <solar-calculator-outline class="inline"/> Project 1: Quiz App with Timer + Scoring
 
-<div class="text-[10px] underline">3 People need to do</div>
+<div class="text-[10px] underline">Chomnan, Mengheang, Mengsim</div>
 
 **Some Ideas:**
 - Description: Multiple-choice questions from local JSON, Timer per question, Final score + correct/incorrect answers
@@ -21,7 +21,7 @@
 
 ##### <solar-clock-circle-outline class="inline"/> Project 2: Task Tracker Web App
 
-<div class="text-[10px] underline">2 People need to do</div>
+<div class="text-[10px] underline">Liza, Sokkheng</div>
 
 **Some Ideas:**
 - Description: A simple app to add, edit, delete, add due dates and mark tasks as completed.
