@@ -1,7 +1,7 @@
 ---
 ---
 
-## 🚀 **Pair Programming Challenge!**
+## 🚀 **Programming Challenge!**
 
 <div class="grid grid-cols-2 gap-4 text-[14px] mt-4">
 
@@ -33,8 +33,9 @@
 
 <div class="mt-4">
 
+- Duration: 2 weeks (02 August - 16 August)
 - Deploy your app to Vercel or Netlify
-- Make a slide presentation to showcase your project
+- Make a slide presentation to showcase your project (cover features, challenges, and solutions, what you learned, etc.)
 - No Backend needed, just use localStorage for data persistence
 - Any questions, feel free to ask.
 
