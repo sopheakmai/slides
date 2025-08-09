@@ -33,7 +33,7 @@
 
 <div class="mt-4">
 
-- Duration: 2 weeks (06 August - 20 August)
+- Duration: 2 weeks (09 August - 24 August)
 - Deploy your app to Vercel or Netlify
 - Make a slide presentation to showcase your project (cover features, challenges, and solutions, what you learned, etc.)
 - No Backend needed, just use localStorage for data persistence
